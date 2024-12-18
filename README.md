@@ -88,11 +88,12 @@ python dataenhance.py --input_path ./traces1/320/ --output_path ./traces1/320_cl
 
 # Acknowledgement
 The models are built upon:
-https://github.com/yjn870/SRCNN-pytorch
 
-https://github.com/sanghyun-son/EDSR-PyTorch
+SRCNN: https://github.com/yjn870/SRCNN-pytorch
 
-https://github.com/zhaohengyuan1/PAN
+EDSR: https://github.com/sanghyun-son/EDSR-PyTorch
+
+PAN: https://github.com/zhaohengyuan1/PAN
 
 Our dataset is generated using a modified simulator from:
 https://github.com/attila-gpu/attila-sim
