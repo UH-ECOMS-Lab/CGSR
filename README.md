@@ -84,3 +84,22 @@ It cleans up and retains only the object boundaries, removing unwanted edges pre
 
 ```bash
 python dataenhance.py --input_path ./traces1/320/ --output_path ./traces1/320_clean/
+```
+
+# Acknowledgement
+The models are built upon:
+https://github.com/yjn870/SRCNN-pytorch
+
+https://github.com/sanghyun-son/EDSR-PyTorch
+
+https://github.com/zhaohengyuan1/PAN
+
+Our dataset is generated using a modified simulator from:
+https://github.com/attila-gpu/attila-sim
+
+# Citation
+```
+```
+
+# License
+MIT
