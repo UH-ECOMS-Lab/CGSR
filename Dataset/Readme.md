@@ -66,7 +66,7 @@ Dataset
 
 ## Raw Data Processing
 
-In the raw version of the feature files, there may be some edge information originating from the rendering process that includes tiles. If you want to remove these extra edges and only retain the object boundaries, you can use the provided `dataenhance.py` script.
+In the raw version of the feature files, there may be some edge information originating from the rendering process, which includes tiles. If you want to remove these extra edges and only retain the object boundaries, you can use the provided `dataenhance.py` script. Note: The algorithm is not yet perfect. We are actively working on optimizing it to achieve more accurate boundary cleaning and improved overall performance. Your feedback and suggestions are valuable as we continue to refine this process.
 
 ### Usage
 
