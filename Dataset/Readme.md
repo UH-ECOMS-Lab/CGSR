@@ -32,9 +32,6 @@ Dataset
   - `frame+number.sim.ppm` files store corresponding simulation frame data.
 - File naming conventions ensure pixel-level alignment between rendering information and frame data.
 
----
-
-
 ## File Naming Convention
 
 - **Rendering Information**:
