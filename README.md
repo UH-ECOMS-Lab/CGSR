@@ -96,7 +96,8 @@ EDSR: https://github.com/sanghyun-son/EDSR-PyTorch
 PAN: https://github.com/zhaohengyuan1/PAN
 
 Our dataset is generated using a modified simulator from:
-https://github.com/attila-gpu/attila-sim
+
+ATTILA-SIM: https://github.com/attila-gpu/attila-sim
 
 # Citation
 ```
