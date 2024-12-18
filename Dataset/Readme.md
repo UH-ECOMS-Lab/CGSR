@@ -1,5 +1,7 @@
 # Dataset Usage Instructions
 
+The dataset is available at: https://kaggle.com/datasets/19684b7cee0ea0e51589d1a064446c2ac72e5167a3da9732f082463e2da84821
+
 This dataset is organized into multiple `traces` directories, each containing data at various resolutions. Supported resolutions include `320`, `640`, `1280`, and `1600`. The dataset is provided as a compressed `.zip` file for ease of distribution. Detailed descriptions are provided below.
 
 ## Directory Structure
