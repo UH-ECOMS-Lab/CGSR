@@ -24,6 +24,7 @@ Dataset
 │   └── 1600/
 │
 └── ...
+```
 
 - Each `traces` directory corresponds to a unique trace.
 - Subdirectories represent the resolution, with `320`, `640`, `1280`, and `1600` pixels being the supported sizes.
