@@ -1,7 +1,7 @@
 The code is still being organized.
 
 # CGSR
-Repository for AAAI paper: Achieving Lightweight Super-resolution For Real-time Computer Graphics
+This is the repository for our paper titled "Achieving Lightweight Super-resolution For Real-time Computer Graphics", published in The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025).
 
 # Overview
 
