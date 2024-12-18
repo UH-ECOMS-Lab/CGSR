@@ -62,3 +62,17 @@ Dataset
   - The camera-facing direction (0 degrees) is mapped to `0`.
   - The side-facing direction (90 degrees) is mapped to `1`.
   - All values are normalized accordingly.
+
+## Raw Data Processing
+
+In the raw version of the feature files, there may be some edge information originating from the rendering process that includes tiles. If you want to remove these extra edges and only retain the object boundaries, you can use the provided `dataenhance.py` script.
+
+### Usage
+
+The `dataenhance.py` script processes the feature files.  
+It cleans up and retains only the object boundaries, removing unwanted edges present due to rendering tiles.
+
+### Command Example
+
+```bash
+python dataenhance.py --input_path ./traces1/320/ --output_path ./traces1/320_clean/
